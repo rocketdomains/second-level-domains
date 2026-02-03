@@ -698,6 +698,7 @@
 .ni,.nom.ni
 .ni,.net.ni
 .ni,.mil.ni
+.now,.co.now
 .np,.com.np
 .np,.edu.np
 .np,.gov.np
@@ -1400,3 +1401,4 @@
 .zm,.net.zm
 .zm,.org.zm
 .zm,.sch.zm
+
